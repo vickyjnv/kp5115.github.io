@@ -8996,6 +8996,9 @@ h1, h2, h3, h4, h5,
       letter-spacing: 2px;
       font-size: 12px;
       font-weight: 600; }
+    .project .text span.linksize {
+      font-size: 20px;
+    }  
     @media (max-width: 767.98px) {
       .project .text {
         opacity: 1; }
@@ -9135,6 +9138,9 @@ textarea.form-control {
       transform: translate(-50%, -50%); }
     .ftco-footer-social li a:hover {
       color: #fff; }
+    .ftco-footer-social li a.projectlinks {
+      background: rgba(0, 0, 0, 0.5);
+    }
 
 .footer-small-nav > li {
   display: inline-block; }
